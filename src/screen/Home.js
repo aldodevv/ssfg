@@ -6,7 +6,7 @@ import {COLORS, NFTData} from '../constants';
 
 const Home = () => {
   const [nftData, setNftData] = useState(NFTData);
-
+  // assadasd
   const handleSearch = value => {
     if (value.length === 0) {
       setNftData(NFTData);
