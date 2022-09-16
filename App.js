@@ -5,7 +5,6 @@ import {Home, Details} from './src/screen';
 import MobileAds from 'react-native-google-mobile-ads';
 
 // keytool -genkey -v -keystore aldomonetizer.keystore -alias aldomonetizer -keyalg RSA -keysize 2048 -validity 10000
-// asdasds
 const App = () => {
   const Stack = createNativeStackNavigator();
 
